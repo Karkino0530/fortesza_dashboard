@@ -1,7 +1,6 @@
 target/
 Evidencias/
 *.iml
-*.xml
 .idea/
 pom.xml.tag
 pom.xml.releaseBackup
