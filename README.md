@@ -4,7 +4,7 @@
 
 1- Clone este repositorio
 
-2- Validar version de navegador Google Chrome (version utilizada para el project 95)
+2- Validar version de navegador Google Chrome (version utilizada para el project 94)
 
 2.1- De ser necesario actualizar el chrome driver reemplazar el actual en el directorio:
    ```
